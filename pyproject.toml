@@ -1,7 +1,6 @@
 [tool.poetry]
 name = "timedelta_nice_format"
 version = "0.1.0"
-description = ""
 authors = ["Stanislav Prokopyev <stas.prokopiev@gmail.com>"]
 description = "PYPI package with 2 functions to convert datetime.timedelta into string with nice format"
 readme = "README.rst"
